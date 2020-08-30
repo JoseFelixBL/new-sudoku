@@ -4,7 +4,7 @@ Programa en python para resolver sudokus
 
 ## Notas para SUDOKU
 13/08/2020, 17:25
-=================
+
 ### Representación lo primero
 Primero ver cómo represento el SUDOKU completo.
 
